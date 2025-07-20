@@ -1,2 +1,1 @@
-## sim
-simulation on web - will work on it soon
+https://developerc76.github.io/punjab-hist
